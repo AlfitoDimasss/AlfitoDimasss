@@ -6,10 +6,10 @@ Repository ini berisi Source Code Project yang pernah saya kerjakan menggunakan 
 - 🌱 Di selang pekerjaan, saya aktif belajar hal baru dan membuat proyek pribadi untuk mengasah kemampuan dan pengetahuan saya di bidang Backend dan DevOps
 
 ### Tech Stack
-  <a href="https://go.dev/"><img align="left" alt="Go" title="Go" width="21px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://www.docker.com/"><img align="left" alt="Docker" title="Docker" width="21px" src="https://www.docker.com/app/uploads/2026/02/Docker_Mark_660x400.png" /></a>
-  <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" /></a>
+  <a href="https://go.dev/"><img align="left" alt="Go" title="Go" width="50px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /></a>
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/3840px-Node.js_logo.svg.png" /></a>
+  <a href="https://www.docker.com/"><img align="left" alt="Docker" title="Docker" width="50px" src="https://www.clipartmax.com/png/middle/421-4211389_check-official-docker-logo.png" /></a>
+  <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" /></a>
   <br>
   <br>
 
