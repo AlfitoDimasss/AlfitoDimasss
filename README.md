@@ -1,4 +1,4 @@
-<img width="1061" height="938" alt="image" src="https://github.com/user-attachments/assets/78908a53-99b4-45e1-86f9-8b886b228154" />### Halo! 👋 Nama saya Alfito.
+### Halo! 👋 Nama saya Alfito.
 
 Repository ini berisi Source Code Project yang pernah saya kerjakan menggunakan berbagai macam Bahasa Pemrograman
 
